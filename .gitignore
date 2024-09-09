@@ -489,3 +489,4 @@ API/reactivities.db-shm
 API/reactivities.db-wal
 client-app/src/features/activities/dashboard/ActivityList.tsx
 API/reactivities.db
+API/reactivities.db
